@@ -20,6 +20,7 @@ p {
 }
 nav, footer {
   background-color: #444;
+  display: flex;
 }
 footer {
   text-align: center;
