@@ -20,8 +20,6 @@ p {
 }
 nav, footer {
   background-color: #444;
-  display: flex;
-  justify-content: space-between;
 }
 footer {
   text-align: center;
@@ -32,6 +30,8 @@ footer {
 nav ul {
   list-style: none;
   padding: 1em;
+  display: flex;
+  justify-content:space-between
 }
 nav a:link, nav a:visited {
   color: #D0D0D0;
