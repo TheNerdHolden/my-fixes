@@ -21,6 +21,7 @@ p {
 nav, footer {
   background-color: #444;
   display: flex;
+  justify-content: space-between;
 }
 footer {
   text-align: center;
