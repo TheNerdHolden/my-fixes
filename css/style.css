@@ -31,7 +31,8 @@ nav ul {
   list-style: none;
   padding: 1em;
   display: flex;
-  justify-content:space-between
+  justify-content:space-between;
+  margin-top: 0em;
 }
 nav a:link, nav a:visited {
   color: #D0D0D0;
