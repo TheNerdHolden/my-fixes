@@ -51,6 +51,7 @@ header {
   margin-top: 2em;
   margin-bottom: 2em;
   margin: auto;
+  text-align: center;
 }
 header img {
   width: 100%;
@@ -62,6 +63,10 @@ header h1 {
 }
 .small {
   margin-top: 1em;
+  font-weight: 900;
+  font-family:  'Lato', sans-serif;
+  text-transform: uppercase;
+  font-size: 85%;
 }
 /*-- Article Styles--*/
 article {
