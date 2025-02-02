@@ -81,7 +81,7 @@ article figure {
   float: right;
 }
 article figcaption {
-  font-size: inherit;
+  font-size: medium;
 }
 .pagination {
   margin-top: 2em;
