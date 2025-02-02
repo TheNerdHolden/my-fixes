@@ -81,6 +81,8 @@ article figure {
   float: right;
 }
 article figcaption {
+  font-weight: 100 !important;
+  font-family: 'Times New Roman', Times, serif;
   font-size: medium;
 }
 .pagination {
