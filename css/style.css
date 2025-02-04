@@ -92,6 +92,7 @@ article figcaption {
   margin: auto;
   display: flex;
   justify-content: space-between;
+  padding-bottom: 1em;
 }
 a.button {
   border: 2px solid #888;
