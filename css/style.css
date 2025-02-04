@@ -82,7 +82,7 @@ article figure {
 }
 article figcaption {
   font-family: 'Lato', sans-serif;
-  font-size: medium;
+  font-size: small;
   font-weight: 100;
 }
 .pagination {
