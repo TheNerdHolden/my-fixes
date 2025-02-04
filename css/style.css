@@ -88,7 +88,10 @@ article figcaption {
 .pagination {
   margin-top: 2em;
   margin-bottom: 2em;
-  width: 96%;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
 }
 a.button {
   border: 2px solid #888;
